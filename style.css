@@ -1,0 +1,17 @@
+h1 {
+  color: black;
+}
+
+body {
+  background-color: grey;
+  font-family: 'Hind', sans-serif;
+
+}
+
+#first {
+  color: purple;
+}
+
+.second {
+  color: orange;
+}
